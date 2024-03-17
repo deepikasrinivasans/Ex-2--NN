@@ -114,8 +114,12 @@ plt.ylabel('Errors')
 plt.show()
 ```
 ### OUTPUT:
-<img valign=top src="https://github.com/deepikasrinivasans/Ex-2--NN/assets/119393935/b0d106d4-d801-4f96-9fe4-08cebacd4233">&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/deepikasrinivasans/Ex-2--NN/assets/119393935/51491f25-89f7-4fbf-b4b1-cd0df7832bc2">
-<img src="https://github.com/deepikasrinivasans/Ex-2--NN/assets/119393935/15faab9e-31c4-4ef2-bdc1-02c357f6b27c">&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/deepikasrinivasans/Ex-2--NN/assets/119393935/d4bb929d-676c-418d-a483-64774383727b">
+<img valign=top src="https://github.com/deepikasrinivasans/Ex-2--NN/assets/119393935/b0d106d4-d801-4f96-9fe4-08cebacd4233">
+&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/deepikasrinivasans/Ex-2--NN/assets/119393935/51491f25-89f7-4fbf-b4b1-cd0df7832bc2">
+
+<img src="https://github.com/deepikasrinivasans/Ex-2--NN/assets/119393935/15faab9e-31c4-4ef2-bdc1-02c357f6b27c">
+&emsp;&emsp;&emsp;&emsp;&emsp;<img src="https://github.com/deepikasrinivasans/Ex-2--NN/assets/119393935/d4bb929d-676c-418d-a483-64774383727b">
+
 ### RESULT:
 Thus, a single layer perceptron model is implemented using python to classify Iris data set.
 
